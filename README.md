@@ -1,4 +1,4 @@
-# blender
+# Blender
 A collection of 3D models I created in Blender.
 
 ## Donut - March 2018
